@@ -38,7 +38,7 @@ def get_face_embedding(image_bytes):
 # 🚀 Streamlit UI
 st.title("🧑‍💻 얼굴 유사도 판별 (FAISS)")
 st.image(
-    ["Baek_Ji_Heon.jpg","Park_Ju_Hyun.jpg","Song_Ha_young.jpg"],
+    ["Baek_Ji_Heon.jpg","Park_Ju_Hyun.jpg","Song_Ha_yeong.jpg"],
     caption=["백지현","박주현","송하영"],
     #use_column_width=True
     width=300
